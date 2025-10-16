@@ -24,7 +24,7 @@ using demographic features like age, gender, education level amd Martial status 
 
 correlations between features (demographic and clinical) and co-occurring mental problems (anxiety, depression, nothing) is also going to be studied to inspect if it has an affect on the presence of anxiety and/or depression.
 
-_the [OCD-data](https://www.kaggle.com/datasets/ohinhaque/ocd-patient-dataset-demographics-and-clinical-data) that will be used is fictional OCD patients data from kaggle that hopefully is a good synthetic data of real patients_
+_The [OCD-data](https://www.kaggle.com/datasets/ohinhaque/ocd-patient-dataset-demographics-and-clinical-data) that will be used is fictional OCD patients' data from kaggle that hopefully is a good substitute for real patients' data_
 
 ## Other research questions
 
