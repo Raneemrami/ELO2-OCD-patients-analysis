@@ -48,6 +48,6 @@ Objectives might be adjusted throughout the project while maintaining the main g
 
 ### Personal learning goals
 
-* Re-enforce data science knowledge.
+* Reinforce data science knowledge.
 
 * Apply machine learning
