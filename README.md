@@ -24,7 +24,7 @@ using demographic features like age, gender, education level amd Martial status 
 
 correlations between features (demographic and clinical) and co-occurring mental problems (anxiety, depression, nothing) is also going to be studied to inspect if it has an affect on the presence of anxiety and/or depression.
 
-_The [OCD-data](https://www.kaggle.com/datasets/ohinhaque/ocd-patient-dataset-demographics-and-clinical-data) that will be used is fictional OCD patients' data from kaggle that hopefully is a good substitute for real patients' data_
+_The [OCD-data](https://www.kaggle.com/datasets/ohinhaque/ocd-patient-dataset-demographics-and-clinical-data) that will be used is fictional OCD patients' data from kaggle that hopefully is a good substitute for real patients' data (other datasets might be used)_
 
 ## Other research questions
 
@@ -44,7 +44,7 @@ Do certain types of obsessions tend to occur more with depression compared to ot
 
 * Conduct EDA to answer sub-questions related to OCD patients, (to get answers that  are supported by the data)
 
-Objectives might be adjusted throughout the project while maintaining the main goal.
+**NOTE**: adjustments could be made as the project is evolving
 
 ### Personal learning goals
 
