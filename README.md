@@ -8,25 +8,21 @@ Studying the  Comorbid Anxiety and Depression in OCD patients, and I aim to use 
 
 ## Main research question
 
-How do early-life stress and coping style, influence the presence of co-occurring mental disorders in individuals with OCD in adults?
+How do early-life stress and coping style, as well as OCD severity influence the presence of co-occurring mental disorders in individuals with OCD in adults?
 
 The co-occurring mental problems in this research are only anxiety and depression
 
-The goal is to conduct two main steps:
+## Project objectives and main points
 
-1. Classify participants into groups (OCD-only, OCD+anxiety, OCD+depression, OCD+both).
+**one**: classify people to:
 
-2. Test whether **OCD severity or symptom dimensions** differ between these groups.
+* probable clinical anxiety/ depression (High HADS-D/HADS-A scores)(severe/moderate severity)
+* possible(breadline case) anxiety/depression (medium HADS-D/HADS-A scores) (mild severity)
+* No anxiety/ Depression (low HADS-D/HADS-A scores)
 
-3. Use machine learning to predict whether the patient is gonna have.
+**Two**: study the differences and correlations between the above categories and other problems like childhood trauma and coping style, as well as OCD severity and other symptom dimensions.
 
-* 0: no anxiety or depression
-
-* 1: anxiety and no depression
-
-* 2: depression and no anxiety
-
-* 3: Both anxiety and depression
+**Three**: build an ML model to predict the above classes based on things like CATS score (Child abuse and trauma scale), Coping style using the brief COPE scale as well as ocd severity and type.
 
 Correlations between features and co-occurring mental problems (anxiety, depression, None) are also going to be studied to inspect if they affect the presence of anxiety and/or depression.
 
