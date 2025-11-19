@@ -4,7 +4,7 @@ This project aims to analyze OCD patients' data to answer different questions ab
 
 ## Current Project idea summary and main challenges
 
-Studying the  Comorbid Anxiety and Depression in OCD patients, and I aim to use simple EDA as well as ML to predict comorbidity. 
+Studying the  Comorbid Anxiety and Depression in OCD patients, and I aim to use simple EDA as well as ML to predict comorbidity.
 
 ## Main research question
 
@@ -32,7 +32,7 @@ please refer to [this link](https://datashare.ed.ac.uk/handle/10283/8698#:~:text
 
 ### Data Citation
 
-Kirkham, Elizabeth; Król, Martyna; Cao, Yintao. (2024). Associations between obsessive-compulsive disorder, early life stress, psychological variables and treatment resistance, [dataset]. University of Edinburgh. https://doi.org/10.7488/ds/7661.
+Kirkham, Elizabeth; Król, Martyna; Cao, Yintao. (2024). Associations between obsessive-compulsive disorder, early life stress, psychological variables and treatment resistance, [dataset]. University of Edinburgh. [https://doi.org/10.7488/ds/7661](https://doi.org/10.7488/ds/7661)
 
 ### Data Description
 
