@@ -60,3 +60,13 @@ Do certain types of obsessions tend to occur more with depression compared to ot
 * Reinforce data science knowledge.
 
 * Apply machine learning
+
+### To Easily navigate the repository
+
+* to find the raw data and the raw data dictionary [in this folder](data/raw_data) this data is the original data and you can find the details about the citation and the license above.
+
+* the first version of the cleaned data [in this folder](data/cleaned_data_one)
+
+* to find the notebooks that are used to clean cleaned data version one [in this folder](cleaning_notebooks)
+
+* [data analysis notebook one](data_exploration_and_analysis/data_exploration_and_analysis_one.ipynb)
