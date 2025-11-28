@@ -8,21 +8,21 @@ Studying the  Comorbid Anxiety and Depression in OCD patients, and I aim to use 
 
 ## Main research question
 
-How do early-life stress and coping style, as well as OCD symptoms severity and type  influence the presence of co-occurring anxiety and depression adults with OCD?
+How does early life dress, obsessive compulsive symptoms, experiential avoidance, and coping style differs between  OCD patients with anxiety symptoms or depression symptoms and patients with both anxiety and depression symptoms?
 
 The co-occurring mental problems in this research are only anxiety and depression
 
 ## Project objectives and main points
 
-**one**: classify people to:
+**one**: using HADS (to measure anxiety and depression) with a threshold of 8 classify people to:
 
-* probable clinical anxiety/ depression (High HADS-D/HADS-A scores)(severe/moderate severity)
-* possible(breadline case) anxiety/depression (medium HADS-D/HADS-A scores) (mild severity)
-* No anxiety/ Depression (low HADS-D/HADS-A scores)
+* anxiety symptoms only
+* depression symptoms only
+* depression and anxiety symptoms
 
 **Two**: study the differences and correlations between the above categories and other problems like childhood trauma and coping style, as well as OCD severity and other symptom dimensions.
 
-**Three**: build an ML model to predict the above classes based on things like CATS score (Child abuse and trauma scale), Coping style (active coping and planing) from the COPE scale as well as OCD symptoms severity and type.
+**Three**: build an ML model to predict the above classes based on things like CATS score (Child abuse and trauma scale), Coping style (active coping and planing) from the COPE scale, experiential avoidance scale as well as OCD symptoms severity and type.
 
 Correlations between features and co-occurring mental problems (anxiety, depression, None) are also going to be studied to inspect if they affect the presence of anxiety and/or depression.
 
@@ -63,10 +63,10 @@ Do certain types of obsessions tend to occur more with depression compared to ot
 
 ### To Easily navigate the repository
 
-* to find the raw data and the raw data dictionary [in this folder](data/raw_data) this data is the original data and you can find the details about the citation and the license above.
+* to find the raw data and the raw data dictionary [in this folder](data/raw_data/README.md) this data is the original data and you can find the details about the citation and the license above.
 
-* the first version of the cleaned data [in this folder](data/cleaned_data_one)
+* the first version of the cleaned data [in this folder](data/cleaned_data_one/README.md)
 
-* to find the notebooks that are used to clean cleaned data version one [in this folder](cleaning_notebooks)
+* to find the notebooks that are used to clean cleaned data version one [in this folder](cleaning_notebooks/README.md)
 
-* [data analysis notebook one](data_exploration_and_analysis/data_exploration_and_analysis_one.ipynb)
+* [data analysis notebooks](data_exploration_and_analysis/README.md)
