@@ -6,9 +6,15 @@ This project aims to analyze OCD patients' data to answer different questions ab
 
 Studying the  Comorbid Anxiety and Depression in OCD patients, and I aim to use simple EDA as well as ML to predict comorbidity.
 
+## Problem Statement
+
+Obsessive–compulsive disorder (OCD) frequently co-occurs with other psychological conditions, particularly anxiety and depression. These comorbid symptoms may influence treatment response and contribute to poorer long-term outcomes.
+This project aims to investigate whether early life stress, obsessive–compulsive symptom patterns, experiential avoidance, and coping styles differ across OCD patients with anxiety symptoms only, depression symptoms only, and those with both anxiety and depression symptoms.
+Understanding these differences is crucial for identifying risk profiles, elucidating underlying mechanisms, and tailoring interventions to meet patient needs.
+
 ## Main research question
 
-How does early life dress, obsessive compulsive symptoms, experiential avoidance, and coping style differs between  OCD patients with anxiety symptoms or depression symptoms and patients with both anxiety and depression symptoms?
+How do early life dress, obsessive compulsive symptoms, experiential avoidance, and coping style differ between  OCD patients with anxiety symptoms or depression symptoms and patients with both anxiety and depression symptoms?
 
 The co-occurring mental problems in this research are only anxiety and depression
 
@@ -43,16 +49,6 @@ This dataset was collected using an online survey between May and July 2022. Peo
 1. the description of the original data under the `Data Description` heading above was copied from the website.
 2. in my project I edited and cleaned the data and I will provide a description and data dictionary for the edited and cleaned data, lines of code used will also be provided as much as possible.
 
-## Other research questions
-
-Do certain types of compulsion tend to occur more with anxiety compared to other types in OCD patients?
-
-Do certain types of compulsion tend to occur more with depression compared to other types in OCD patients?
-
-Do certain types of obsessions tend to occur more with anxiety compared to other types in OCD patients?
-
-Do certain types of obsessions tend to occur more with depression compared to other types in OCD patients?
-
 **NOTE**: adjustments could be made as the project is evolving
 
 ### Personal learning goals
@@ -63,10 +59,8 @@ Do certain types of obsessions tend to occur more with depression compared to ot
 
 ### To Easily navigate the repository
 
-* to find the raw data and the raw data dictionary [in this folder](data/raw_data/README.md) this data is the original data and you can find the details about the citation and the license above.
+* to find the data the raw and cleaned data and data dictionaries [in this folder](data)
 
-* the first version of the cleaned data [in this folder](data/cleaned_data_one/README.md)
+* to find the notebooks that are used to clean data [in this folder](cleaning_notebooks)
 
-* to find the notebooks that are used to clean cleaned data version one [in this folder](cleaning_notebooks/README.md)
-
-* [data analysis notebooks](data_exploration_and_analysis/README.md)
+* [data analysis notebooks](data_exploration_and_analysis)
