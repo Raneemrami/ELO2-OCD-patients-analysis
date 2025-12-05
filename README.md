@@ -115,7 +115,7 @@ individuals in this category did not reached scores that are greater than 6
 
 ### 5. CATS (Total)
 
-the Child abuse and trauma scale has multiple subsclaes to measure types of stress, we used the total as a measure of the early life stress generally 
+the Child abuse and trauma scale has multiple subsclaes to measure types of stress, we used the total as a measure of the early life stress generally
 
 ![plot_5](plots/five.png)
 
