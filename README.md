@@ -73,22 +73,54 @@ This dataset was collected using an online survey between May and July 2022. Peo
 
 ![plot_1](plots/one.png)
 
+anxiety symptoms present, depression symptoms absent:
+never reached scores as low as 4 (minimum is 7)
+
 ### 2. Coping (planning coping strategy)
 
 ![plot_2](plots/two.png)
+
+anxiety symptoms present, depression symptoms absent
+never reached scores as low as 4 (minimum is 7)
 
 ### 3. OCI-R (Total)
 
 ![plot_3](plots/three.png)
 
+people with both anxiety and depression symptoms reached to scores up to 66, whereas people with anxiety symptoms only has a maximum of 59 on the OCIR scale
+
 ### 4. OCI-R (Hoarding subscale)
 
 ![plot_4](plots/four.png)
+
+OCIR-hoarding
+
+individuals with both anxiety and depression showed difference in this subscale, compared to the other subscale that did not show much difference
+
+* anxiety and depression symptoms present:
+
+this category has individuals scoring up to 12 on the OCIR-hoarding subscale (highest score)
+
+* anxiety symptoms present depression symptoms absent:
+
+individuals in this category did not reached scores that are greater than 6
 
 ### 5. CATS (Total)
 
 ![plot_5](plots/five.png)
 
+similarly to OCIR, we can also see that people with both anxiety and depression symptoms reached higher scores on the CATS scale (that some scores were never reached by people with anxiety symptoms only)
+
+* anxiety and depression symptom  present:
+
+    With patients reaching scores above 120 (128)
+
+* anxiety present, depression absent:
+
+    0 patients reaching scores above  95
+
 ### 6. Brief excretal avoidance (Total)
 
 ![plot_6](plots/six.png)
+
+*not considering outliers* individuals with anxiety symptoms only did not reach scores that are greater than 78 while some patients with both anxiety and depression symptoms reached up to 87, and people with both anxiety and depression symptoms never scored below around 37 while some of the individuals with anxiety symptoms only scored below that.
