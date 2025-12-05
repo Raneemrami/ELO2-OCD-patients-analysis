@@ -64,3 +64,31 @@ This dataset was collected using an online survey between May and July 2022. Peo
 * to find the notebooks that are used to clean data [in this folder](cleaning_notebooks)
 
 * [data analysis notebooks](data_exploration_and_analysis)
+
+## Tha analysis (Part one)
+
+### research question answer
+
+### 1. Coping (active coping strategy)
+
+![plot_1](plots/one.png)
+
+### 2. Coping (planning coping strategy)
+
+![plot_2](plots/two.png)
+
+### 3. OCI-R (Total)
+
+![plot_3](plots/three.png)
+
+### 4. OCI-R (Hoarding subscale)
+
+![plot_4](plots/four.png)
+
+### 5. CATS (Total)
+
+![plot_5](plots/five.png)
+
+### 6. Brief excretal avoidance (Total)
+
+![plot_6](plots/six.png)
