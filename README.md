@@ -71,12 +71,16 @@ This dataset was collected using an online survey between May and July 2022. Peo
 
 ### 1. Coping (active coping strategy)
 
+this scale measures weather an individual use active coping strategy to deal with problems
+
 ![plot_1](plots/one.png)
 
 anxiety symptoms present, depression symptoms absent:
 never reached scores as low as 4 (minimum is 7)
 
 ### 2. Coping (planning coping strategy)
+
+this scale measures weather an individual use planning as a coping strategy to deal with problems
 
 ![plot_2](plots/two.png)
 
@@ -85,11 +89,15 @@ never reached scores as low as 4 (minimum is 7)
 
 ### 3. OCI-R (Total)
 
+obsessive compulsive inventory revised, is used to measure the obsessive compulsive symptoms and has 6 subscales
+
 ![plot_3](plots/three.png)
 
 people with both anxiety and depression symptoms reached to scores up to 66, whereas people with anxiety symptoms only has a maximum of 59 on the OCIR scale
 
 ### 4. OCI-R (Hoarding subscale)
+
+the OCI-R HOARDING is one of the OCIR subscales
 
 ![plot_4](plots/four.png)
 
@@ -107,6 +115,8 @@ individuals in this category did not reached scores that are greater than 6
 
 ### 5. CATS (Total)
 
+the Child abuse and trauma scale has multiple subsclaes to measure types of stress, we used the total as a measure of the early life stress generally 
+
 ![plot_5](plots/five.png)
 
 similarly to OCIR, we can also see that people with both anxiety and depression symptoms reached higher scores on the CATS scale (that some scores were never reached by people with anxiety symptoms only)
@@ -120,6 +130,8 @@ similarly to OCIR, we can also see that people with both anxiety and depression 
     0 patients reaching scores above  95
 
 ### 6. Brief excretal avoidance (Total)
+
+measure the tendency to to avoid unwanted thoughts and sensations
 
 ![plot_6](plots/six.png)
 
