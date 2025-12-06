@@ -111,14 +111,46 @@ in both categories most patients chose higher scores(3 or 4)
 
 this scale measures weather an individual use planning as a coping strategy to deal with problems
 
-![plot_2](plots/two.png)
+#### planning statement 1 (I make a plan of action.)
 
-anxiety symptoms present, depression symptoms absent
-never reached scores as low as 4 (minimum is 7)
+![plan1_anx/dep](plots/plan1_anx_and_dep.png)
+
+![plan1_anx](plots/plan1_anx_only.png)
+
+individuals who chose (2)(lower score) are less in the anxiety symptoms only category
+
+#### planning statement 2 (I try to come up witha strategy about what to do.)
+
+![plan2_anx/dep](plots/plan2_anx_and_dep.png)
+
+![plan2_anx](plots/plan2_anx_only.png)
+
+generally in both categories individuals who chose (higher scores)(3 or 4) are higher than individuals who chose (1 or 2)
+(low scores), the number of individuals in the anxiety and depression symptoms category who chose 2 is high compared to the other scores whereas the number of individuals choosing 2 is lower in the anxiety symptoms only compared to the other scores.
+
+#### planning statement 3 (I think about how I might best handle the problem.)
+
+![plan3_anx/dep](plots/plan3_anx_and_dep.png)
+
+![plan3_anx](plots/plan3_anx_only.png)
+
+generally in both categories individuals who chose (higher scores)(3 or 4) are higher than individuals who chose (1 or 2)
+(low scores)
+
+#### planning statement 4 (I think hard about what steps to take.)
+
+![plan4_anx/dep](plots/plan4_anx_and_dep.png)
+
+![plan4_anx](plots/plan4_anx_only.png)
+
+generally in both categories individuals who chose (higher scores)(3 or 4) are higher than individuals who chose (1 or 2)
+(low scores)
+
+*summary* statement one showed the most difference where there were significantly less individuals choosing lower score(2) in the anxiety symptoms only category whereas other statements showed almost similar distribution for both categories with statement two showing: the number of individuals in the anxiety and depression symptoms category who chose 2 is high compared to the other scores whereas the number of individuals choosing 2 is lower in the anxiety symptoms only compared to the other scores.(anxiety symptoms only, anxiety and depression symptoms)
 
 ### 3. OCI-R (Total)
 
-obsessive compulsive inventory revised, is used to measure the obsessive compulsive symptoms and has 6 subscales
+obsessive compulsive inventory revised, is used to measure the obsessive compulsive symptoms and has 6 sub-scales
 
 ![plot_3](plots/three.png)
 
@@ -126,7 +158,7 @@ people with both anxiety and depression symptoms reached to scores up to 66, whe
 
 ### 4. OCI-R (Hoarding subscale)
 
-the OCI-R HOARDING is one of the OCIR subscales
+the OCI-R HOARDING is one of the OCIR sub-scales
 
 ![plot_4](plots/four.png)
 
@@ -144,7 +176,7 @@ individuals in this category did not reached scores that are greater than 6
 
 ### 5. CATS (Total)
 
-the Child abuse and trauma scale has multiple subsclaes to measure types of stress, we used the total as a measure of the early life stress generally
+the Child abuse and trauma scale has multiple sub-scales to measure types of stress, we used the total as a measure of the early life stress generally
 
 ![plot_5](plots/five.png)
 
