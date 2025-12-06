@@ -80,7 +80,7 @@ this scale measures weather an individual use active coping strategy to deal wit
 
 ![plot1_anx](plots/ac1_anx_only.png)
 
-generally category of patients with anxiety symptoms only has less individuals choosing 1 or 2 (low scores)
+generally category of patients with anxiety symptoms only has less individuals choosing 1 or 2 (low scores), compared to the category of patients with both anxiety and depression symptoms
 
 #### active coping statement 2 (I take additional action to try to get rid of the problem.)
 
@@ -110,6 +110,7 @@ in both categories most patients chose higher scores(3 or 4)
 ### 2. Coping (planning coping strategy)
 
 this scale measures weather an individual use planning as a coping strategy to deal with problems
+[for more information about the scale](https://positivepsychology.com/coping-scales-brief-cope-inventory/#:~:text=The%20Brief%20COPE%20Inventory%20consists,University%20of%20California%2C%20San%20Francisco.).
 
 #### planning statement 1 (I make a plan of action.)
 
@@ -117,16 +118,16 @@ this scale measures weather an individual use planning as a coping strategy to d
 
 ![plan1_anx](plots/plan1_anx_only.png)
 
-individuals who chose (2)(lower score) are less in the anxiety symptoms only category
+generally individuals that chose (2)(low score) are less in the anxiety symptoms  only category compared  to other scores whereas  individuals that chose (2)(low score) are more compared to other scores in the anxiety and depression symptoms category.
 
-#### planning statement 2 (I try to come up witha strategy about what to do.)
+#### planning statement 2 (I try to come up with a strategy about what to do.)
 
 ![plan2_anx/dep](plots/plan2_anx_and_dep.png)
 
 ![plan2_anx](plots/plan2_anx_only.png)
 
 generally in both categories individuals who chose (higher scores)(3 or 4) are higher than individuals who chose (1 or 2)
-(low scores), the number of individuals in the anxiety and depression symptoms category who chose 2 is high compared to the other scores whereas the number of individuals choosing 2 is lower in the anxiety symptoms only compared to the other scores.
+(low scores), the number of individuals in the anxiety and depression symptoms category who chose 2 is high compared to the other scores whereas the number of individuals choosing 2 is lower in the anxiety symptoms only category compared to the other scores.
 
 #### planning statement 3 (I think about how I might best handle the problem.)
 
@@ -146,7 +147,7 @@ generally in both categories individuals who chose (higher scores)(3 or 4) are h
 generally in both categories individuals who chose (higher scores)(3 or 4) are higher than individuals who chose (1 or 2)
 (low scores)
 
-*summary* statement one showed the most difference where there were significantly less individuals choosing lower score(2) in the anxiety symptoms only category whereas other statements showed almost similar distribution for both categories with statement two showing: the number of individuals in the anxiety and depression symptoms category who chose 2 is high compared to the other scores whereas the number of individuals choosing 2 is lower in the anxiety symptoms only compared to the other scores.(anxiety symptoms only, anxiety and depression symptoms)
+*summary* statement_one and statement_two:generally individuals that chose (2)(low score) are less in the anxiety symptoms  only category compared  to other scores whereas  individuals that chose (2)(low score) are more compared to other scores in the anxiety and depression symptoms category.
 
 ### 3. OCI-R (Total)
 
@@ -196,4 +197,10 @@ measure the tendency to to avoid unwanted thoughts and sensations
 
 ![plot_6](plots/six.png)
 
-*not considering outliers* individuals with anxiety symptoms only did not reach scores that are greater than 78 while some patients with both anxiety and depression symptoms reached up to 87, and people with both anxiety and depression symptoms never scored below around 37 while some of the individuals with anxiety symptoms only scored below that.
+for individuals with both anxiety and depression symptoms between (57-71) is the average and some individuals with both anxiety and depression symptoms reached up to 87 (around 16 pints above average).
+
+for individuals with anxiety symptoms only the average is between (56.0- 63.0), some individuals with anxiety symptoms only scored up to 78
+
+(around 15 pints above average)
+
+we can see that individuals with anxiety and depression symptoms have higher average compared to individuals with anxiety symptoms only.
