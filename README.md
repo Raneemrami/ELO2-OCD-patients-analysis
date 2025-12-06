@@ -104,6 +104,7 @@ in both categories individuals who chose (1 or 2), are almost equal to individua
 ![plot4_anx](plots/ac4_anx_only.png)
 
 in both categories most patients chose higher scores(3 or 4)
+
 *summary* statement one showed the most difference where there were significantly less individuals choosing lower scored(1 or 2) in the anxiety symptoms only category wheres other statements showed almost similar distribution for both categories (anxiety symptoms only, anxiety and depression symptoms)
 
 ### 2. Coping (planning coping strategy)
