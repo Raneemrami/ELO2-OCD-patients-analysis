@@ -71,12 +71,40 @@ This dataset was collected using an online survey between May and July 2022. Peo
 
 ### 1. Coping (active coping strategy)
 
-this scale measures weather an individual use active coping strategy to deal with problems
+this scale measures weather an individual use active coping strategy to deal with problems, it has 4 statements to measure that.
+[for more information about the scale](https://positivepsychology.com/coping-scales-brief-cope-inventory/#:~:text=The%20Brief%20COPE%20Inventory%20consists,University%20of%20California%2C%20San%20Francisco.).
 
-![plot_1](plots/one.png)
+#### active coping statement 1 (I concentrate my efforts on doing something about it)
 
-anxiety symptoms present, depression symptoms absent:
-never reached scores as low as 4 (minimum is 7)
+![plot1_anx/dep](plots/ac1_anx_and_dep.png)
+
+![plot1_anx](plots/ac1_anx_only.png)
+
+generally category of patients with anxiety symptoms only has less individuals choosing 1 or 2 (low scores)
+
+#### active coping statement 2 (I take additional action to try to get rid of the problem.)
+
+![plot2_anx/dep](plots/ac2_anx_and_dep.png)
+
+![plot2_anx](plots/ac2_anx_only.png)
+in both categories most people answered (3 or 4) (considered high)
+
+#### active coping statement 3 (I take direct action to get around the problem.)
+
+![plot3_anx/dep](plots/ac3_anx_and_dep.png)
+
+![plot3_anx](plots/ac3_anx_only.png)
+
+in both categories individuals who chose (1 or 2), are almost equal to individuals who chose (3 or 4)
+
+#### active coping statement 4 (I do what has to be done, one step at a time.)
+
+![plot4_anx/dep](plots/ac4_anx_and_dep.png)
+
+![plot4_anx](plots/ac4_anx_only.png)
+
+in both categories most patients chose higher scores(3 or 4)
+*summary* statement one showed the most difference where there were significantly less individuals choosing lower scored(1 or 2) in the anxiety symptoms only category wheres other statements showed almost similar distribution for both categories (anxiety symptoms only, anxiety and depression symptoms)
 
 ### 2. Coping (planning coping strategy)
 
