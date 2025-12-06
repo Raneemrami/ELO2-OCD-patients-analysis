@@ -9,12 +9,12 @@ Studying the  Comorbid Anxiety and Depression in OCD patients, and I aim to use 
 ## Problem Statement
 
 Obsessive–compulsive disorder (OCD) frequently co-occurs with other psychological conditions, particularly anxiety and depression. These comorbid symptoms may influence treatment response and contribute to poorer long-term outcomes.
-This project aims to investigate whether early life stress, obsessive–compulsive symptom patterns, experiential avoidance, and coping styles differ across OCD patients with anxiety symptoms only, depression symptoms only, and those with both anxiety and depression symptoms.
+This project aims to investigate whether early life stress, obsessive–compulsive symptom patterns, experiential avoidance, and coping styles differ across OCD patients with anxiety symptoms only, and those with both anxiety and depression symptoms.
 Understanding these differences is crucial for identifying risk profiles, elucidating underlying mechanisms, and tailoring interventions to meet patient needs.
 
 ## Main research question
 
-How do early life dress, obsessive compulsive symptoms, experiential avoidance, and coping style differ between  OCD patients with anxiety symptoms or depression symptoms and patients with both anxiety and depression symptoms?
+How do early life dress, obsessive compulsive symptoms, experiential avoidance, and coping style differ between  OCD patients with anxiety symptoms and patients with both anxiety and depression symptoms?
 
 The co-occurring mental problems in this research are only anxiety and depression
 
@@ -23,14 +23,11 @@ The co-occurring mental problems in this research are only anxiety and depressio
 **one**: using HADS (to measure anxiety and depression) with a threshold of 8 classify people to:
 
 * anxiety symptoms only
-* depression symptoms only
 * depression and anxiety symptoms
 
-**Two**: study the differences and correlations between the above categories and other problems like childhood trauma and coping style, as well as OCD severity and other symptom dimensions.
+**Two**: study the differences between the above categories and other problems like childhood trauma and coping style, as well as OCD severity and other symptom dimensions.
 
 **Three**: build an ML model to predict the above classes based on things like CATS score (Child abuse and trauma scale), Coping style (active coping and planing) from the COPE scale, experiential avoidance scale as well as OCD symptoms severity and type.
-
-Correlations between features and co-occurring mental problems (anxiety, depression, None) are also going to be studied to inspect if they affect the presence of anxiety and/or depression.
 
 ## Data used
 
@@ -191,15 +188,16 @@ similarly to OCIR, we can also see that people with both anxiety and depression 
 
     0 patients reaching scores above  95
 
-### 6. Brief excretal avoidance (Total)
+### 6. Brief experiential avoidance (Total)
 
 measure the tendency to to avoid unwanted thoughts and sensations
+[for more information about the scale](https://novopsych.com/assessments/formulation/brief-experiential-avoidance-questionnaire-beaq/)
 
 ![plot_6](plots/six.png)
 
-for individuals with both anxiety and depression symptoms between (57-71) is the average and some individuals with both anxiety and depression symptoms reached up to 87 (around 16 pints above average).
+for individuals with both anxiety and depression symptoms the average is between (57-71) and some individuals with both anxiety and depression symptoms reached up to 87 (around 16 pints above average).
 
-for individuals with anxiety symptoms only the average is between (56.0- 63.0), some individuals with anxiety symptoms only scored up to 78
+for individuals with anxiety symptoms only the average is between (48.0- 63.0), some individuals with anxiety symptoms only scored up to 78
 
 (around 15 pints above average)
 
