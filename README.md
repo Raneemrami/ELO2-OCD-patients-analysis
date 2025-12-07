@@ -68,6 +68,8 @@ This dataset was collected using an online survey between May and July 2022. Peo
 
 ### 1. Coping (active coping strategy)
 
+If you to give these statements higher scores such as a 3 or 4, you will score highly as using Active Coping as one of your coping strategies. If you scored low giving these statements a 1 or 2 then Active Coping would not be one of your core coping strategies.
+
 this scale measures weather an individual use active coping strategy to deal with problems, it has 4 statements to measure that.
 [for more information about the scale](https://positivepsychology.com/coping-scales-brief-cope-inventory/#:~:text=The%20Brief%20COPE%20Inventory%20consists,University%20of%20California%2C%20San%20Francisco.).
 
@@ -105,6 +107,8 @@ in both categories most patients chose higher scores(3 or 4)
 *summary* statement one showed the most difference where there were significantly less individuals choosing lower scored(1 or 2) in the anxiety symptoms only category wheres other statements showed almost similar distribution for both categories (anxiety symptoms only, anxiety and depression symptoms)
 
 ### 2. Coping (planning coping strategy)
+
+similar scoring strategy to active coping
 
 this scale measures weather an individual use planning as a coping strategy to deal with problems
 [for more information about the scale](https://positivepsychology.com/coping-scales-brief-cope-inventory/#:~:text=The%20Brief%20COPE%20Inventory%20consists,University%20of%20California%2C%20San%20Francisco.).
@@ -148,15 +152,16 @@ generally in both categories individuals who chose (higher scores)(3 or 4) are h
 
 ### 3. OCI-R (Total)
 
-obsessive compulsive inventory revised, is used to measure the obsessive compulsive symptoms and has 6 sub-scales
+obsessive compulsive inventory revised, is used to measure the OCD symptoms across 6 different sub-scales
+washing, checking, neutralizing, obsessing, ordering and hoarding.
 
 ![plot_3](plots/three.png)
 
-people with both anxiety and depression symptoms reached to scores up to 66, whereas people with anxiety symptoms only has a maximum of 59 on the OCIR scale
+people with both anxiety and depression symptoms reached to scores up to 66, whereas people with anxiety symptoms only had a maximum of 59 on the OCIR scale.
 
 ### 4. OCI-R (Hoarding subscale)
 
-the OCI-R HOARDING is one of the OCIR sub-scales
+the OCI-R HOARDING is one of the OCI-R sub-scales
 
 ![plot_4](plots/four.png)
 
@@ -166,11 +171,11 @@ individuals with both anxiety and depression showed difference in this subscale,
 
 * anxiety and depression symptoms present:
 
-this category has individuals scoring up to 12 on the OCIR-hoarding subscale (highest score)
+this category had individuals scoring up to 12 on the OCIR-hoarding subscale (highest score)
 
 * anxiety symptoms present depression symptoms absent:
 
-individuals in this category did not reached scores that are greater than 6
+individuals in this category did not reached scores that are greater than 10
 
 ### 5. CATS (Total)
 
@@ -190,15 +195,12 @@ similarly to OCIR, we can also see that people with both anxiety and depression 
 
 ### 6. Brief experiential avoidance (Total)
 
-measure the tendency to to avoid unwanted thoughts and sensations
+measure the tendency to to avoid unwanted thoughts and sensations.
+Scores range from 15 to 90, higher scores indicating higher levels of EA.
 [for more information about the scale](https://novopsych.com/assessments/formulation/brief-experiential-avoidance-questionnaire-beaq/)
 
 ![plot_6](plots/six.png)
 
-for individuals with both anxiety and depression symptoms the average is between (57-71) and some individuals with both anxiety and depression symptoms reached up to 87 (around 16 pints above average).
+for individuals with both anxiety and depression symptoms some individuals  reached up to 87 on the EA scale, this score was never reached by individuals with anxiety symptoms only.
 
-for individuals with anxiety symptoms only the average is between (48.0- 63.0), some individuals with anxiety symptoms only scored up to 78
-
-(around 15 pints above average)
-
-we can see that individuals with anxiety and depression symptoms have higher average compared to individuals with anxiety symptoms only.
+for individuals with anxiety symptoms only some individuals scored up to 78 (maximum)
