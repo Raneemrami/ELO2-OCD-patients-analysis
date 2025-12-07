@@ -14,7 +14,7 @@ Understanding these differences is crucial for identifying risk profiles, elucid
 
 ## Main research question
 
-How do early life dress, obsessive compulsive symptoms, experiential avoidance, and coping style differ between  OCD patients with anxiety symptoms only and patients with both anxiety and depression symptoms?
+How do early life stress, obsessive compulsive symptoms, experiential avoidance, and coping style differ between  OCD patients with anxiety symptoms only and patients with both anxiety and depression symptoms?
 
 The co-occurring mental problems in this research are only anxiety and depression
 
@@ -237,7 +237,7 @@ we are basically using the childhood abuse and trauma scale total, the brief exp
 
 the overall accuracy was around 65%, which is better than predicitng the most class (58.5%).
 
-### presion and recall
+### precision and recall
 
 * treating label 0 (anxiety and depression symptoms present) as the positive class, out of all individuals that the model predict they have both anxiety and depression symptoms, 0.68 (68%) are actually with both anxiety and depression symptoms(Precision).
 
