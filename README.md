@@ -14,7 +14,7 @@ Understanding these differences is crucial for identifying risk profiles, elucid
 
 ## Main research question
 
-How do early life dress, obsessive compulsive symptoms, experiential avoidance, and coping style differ between  OCD patients with anxiety symptoms and patients with both anxiety and depression symptoms?
+How do early life dress, obsessive compulsive symptoms, experiential avoidance, and coping style differ between  OCD patients with anxiety symptoms only and patients with both anxiety and depression symptoms?
 
 The co-occurring mental problems in this research are only anxiety and depression
 
@@ -56,6 +56,8 @@ This dataset was collected using an online survey between May and July 2022. Peo
 
 ### To Easily navigate the repository
 
+* domain knowledge related resources [can be found here](0_domain_study/links.md)
+
 * to find the data the raw and cleaned data and data dictionaries [in this folder](data)
 
 * to find the notebooks that are used to clean data [in this folder](cleaning_notebooks)
@@ -63,6 +65,8 @@ This dataset was collected using an online survey between May and July 2022. Peo
 * [data analysis notebooks](data_exploration_and_analysis)
 
 ## Tha analysis (Part one)
+
+for more details visit the [data exploration and analysis notebook](data_exploration_and_analysis/data_exploration_and_analysis_three.ipynb)
 
 ### research question answer
 
@@ -159,6 +163,15 @@ washing, checking, neutralizing, obsessing, ordering and hoarding.
 
 people with both anxiety and depression symptoms reached to scores up to 66, whereas people with anxiety symptoms only had a maximum of 59 on the OCIR scale.
 
+* anxiety symptoms present depression symptoms absent:
+
+50% scored below or equal 38 (50th percentile)
+
+* anxiety and depression symptoms present:
+50% scored below 40.5 (50th percentile)
+
+there is not a huge difference and most of it was coming from the hoarding sub-scale
+
 ### 4. OCI-R (Hoarding subscale)
 
 the OCI-R HOARDING is one of the OCI-R sub-scales
@@ -187,11 +200,13 @@ similarly to OCIR, we can also see that people with both anxiety and depression 
 
 * anxiety and depression symptom  present:
 
-    With patients reaching scores above 120 (128)
+  * With patients reaching scores above 120 (128)
+  * 50% scored below or equal 61 (50th percentile)
 
 * anxiety present, depression absent:
 
-    0 patients reaching scores above  95
+  * 0 patients reaching scores above  95
+  * 50% scored below or equal 40 (50th percentile)
 
 ### 6. Brief experiential avoidance (Total)
 
@@ -204,3 +219,34 @@ Scores range from 15 to 90, higher scores indicating higher levels of EA.
 for individuals with both anxiety and depression symptoms some individuals  reached up to 87 on the EA scale, this score was never reached by individuals with anxiety symptoms only.
 
 for individuals with anxiety symptoms only some individuals scored up to 78 (maximum)
+
+## Machine learning (Part two)
+
+for more details [visit the machine learning notebook](ML/ML2.ipynb)
+
+this part incorporated training a logistic regression model to predict the two main classes that were compared:
+
+* anxiety symptoms only
+* anxiety and depression symptoms
+
+using some of the scales mentioned above CATS_Total,  OCIR_Total,
+OCIR_Hoarding_Total, OCIR_Checking_Total, OCIR_Ordering_Total, OCIR_Neutralizing_Total, OCIR_Washing_Total, OCIR_Obsessing_Total, Brief_Experiential_Avoidance_Questionnaire_Total.
+we are basically using the childhood abuse and trauma scale total, the brief experiential avoidance scale total, and the OCI-R scale total along with its sub-scales total.
+
+### accuracy
+
+the overall accuracy was around 65%, which is better than predicitng the most class (58.5%).
+
+### presion and recall
+
+* treating label 0 (anxiety and depression symptoms present) as the positive class, out of all individuals that the model predict they have both anxiety and depression symptoms, 0.68 (68%) are actually with both anxiety and depression symptoms(Precision).
+
+* out of all the individuals with both anxiety and depression symptoms, the model predicted (0.77) 77% correctly. meaning the rest are false negatives (around 23%)
+
+### ROC CURVE
+
+![plot_roc](plots/roc.png)
+
+### confusion matrix
+
+![plot_roc](plots/cm.png)
