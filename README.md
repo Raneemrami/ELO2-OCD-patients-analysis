@@ -43,8 +43,8 @@ This dataset was collected using an online survey between May and July 2022. Peo
 
 ### Important notes
 
-1. the description of the original data under the `Data Description` heading above was copied from the website.
-2. in my project I edited and cleaned the data and I will provide a description and data dictionary for the edited and cleaned data, lines of code used will also be provided as much as possible.
+1. the description of the original data under the `Data Description` heading above was copied directly from the the original data website[university of Edinburgh data share](https://datashare.ed.ac.uk/handle/10283/8698#:~:text=Participants%20were%20also%20asked%20to,was%20also%20recorded)website.
+2. in my project I organized and cleaned the data and I will provide a description and data dictionary for the cleaned data, the code and the documentation of the data cleaning and organizing process could be found in the notebooks.
 
 **NOTE**: adjustments could be made as the project is evolving
 
