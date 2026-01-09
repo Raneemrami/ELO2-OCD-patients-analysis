@@ -72,7 +72,7 @@ for more details visit the [data exploration and analysis notebook](data_explora
 
 ### 1. Coping (active coping strategy)
 
-If you to give these statements higher scores such as a 3 or 4, you will score highly as using Active Coping as one of your coping strategies. If you scored low giving these statements a 1 or 2 then Active Coping would not be one of your core coping strategies.
+If you give these statements high scores such as a 3 or 4,it means that you use Active Coping as one of your coping strategies. If you give these statements lower scores such as 1 or 2 then Active Coping would not be one of your main coping strategies.
 
 this scale measures weather an individual use active coping strategy to deal with problems, it has 4 statements to measure that.
 [for more information about the scale](https://positivepsychology.com/coping-scales-brief-cope-inventory/#:~:text=The%20Brief%20COPE%20Inventory%20consists,University%20of%20California%2C%20San%20Francisco.).
